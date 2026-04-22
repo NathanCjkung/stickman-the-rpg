@@ -2,12 +2,6 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "ts_tileset_room_building",
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
-  "autoTileSets": [],
-  "tileAnimationFrames": [],
   "spriteId": {
     "name": "spr_tileset_room_buliding",
     "path": "sprites/spr_tileset_room_buliding/spr_tileset_room_buliding.yy",
@@ -18,11 +12,17 @@
   "tileyoff": 0,
   "tilehsep": 0,
   "tilevsep": 0,
+  "spriteNoExport": true,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
-  "spriteNoExport": true,
   "out_columns": 20,
   "tile_count": 391,
+  "autoTileSets": [],
+  "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
   "tileAnimation": {
     "FrameData": [

@@ -2,12 +2,6 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "ts_tileset_interior",
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
-  "autoTileSets": [],
-  "tileAnimationFrames": [],
   "spriteId": {
     "name": "spr_tileset_interior",
     "path": "sprites/spr_tileset_interior/spr_tileset_interior.yy",
@@ -18,11 +12,17 @@
   "tileyoff": 0,
   "tilehsep": 0,
   "tilevsep": 0,
+  "spriteNoExport": true,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
-  "spriteNoExport": true,
   "out_columns": 38,
   "tile_count": 1424,
+  "autoTileSets": [],
+  "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
   "tileAnimation": {
     "FrameData": [

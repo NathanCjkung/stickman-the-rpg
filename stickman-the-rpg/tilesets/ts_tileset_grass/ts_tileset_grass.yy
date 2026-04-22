@@ -2,12 +2,6 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "ts_tileset_grass",
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
-  "autoTileSets": [],
-  "tileAnimationFrames": [],
   "spriteId": {
     "name": "spr_tileset_grass",
     "path": "sprites/spr_tileset_grass/spr_tileset_grass.yy",
@@ -18,11 +12,17 @@
   "tileyoff": 0,
   "tilehsep": 0,
   "tilevsep": 0,
+  "spriteNoExport": true,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
-  "spriteNoExport": true,
   "out_columns": 13,
   "tile_count": 162,
+  "autoTileSets": [],
+  "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
   "tileAnimation": {
     "FrameData": [
