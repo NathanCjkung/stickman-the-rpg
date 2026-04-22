@@ -3,7 +3,7 @@
   "resourceVersion": "1.6",
   "name": "stickman-the-rpg",
   "resources": [
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"obj_wood_door","path":"objects/obj_wood_door/obj_wood_door.yy",},"order":0,},
     {"id":{"name":"ts_tileset_grass","path":"tilesets/ts_tileset_grass/ts_tileset_grass.yy",},"order":4,},
     {"id":{"name":"spr_tileset_interior","path":"sprites/spr_tileset_interior/spr_tileset_interior.yy",},"order":0,},
     {"id":{"name":"room_lobby","path":"rooms/room_lobby/room_lobby.yy",},"order":1,},
@@ -11,6 +11,7 @@
     {"id":{"name":"ts_tileset_room_building","path":"tilesets/ts_tileset_room_building/ts_tileset_room_building.yy",},"order":1,},
     {"id":{"name":"spr_tileset_tree","path":"sprites/spr_tileset_tree/spr_tileset_tree.yy",},"order":3,},
     {"id":{"name":"ts_tileset_tree","path":"tilesets/ts_tileset_tree/ts_tileset_tree.yy",},"order":3,},
+    {"id":{"name":"room_newbie_lobby","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},"order":2,},
     {"id":{"name":"spr_character_tileset","path":"sprites/spr_character_tileset/spr_character_tileset.yy",},"order":2,},
     {"id":{"name":"ts_tileset_interior","path":"tilesets/ts_tileset_interior/ts_tileset_interior.yy",},"order":0,},
     {"id":{"name":"spr_tileset_room_buliding","path":"sprites/spr_tileset_room_buliding/spr_tileset_room_buliding.yy",},"order":1,},
@@ -38,6 +39,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
     {"roomId":{"name":"room_lobby","path":"rooms/room_lobby/room_lobby.yy",},},
+    {"roomId":{"name":"room_newbie_lobby","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

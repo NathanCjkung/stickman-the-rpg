@@ -1,9 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object1",
-  "spriteId": null,
-  "solid": false,
+  "name": "obj_wood_door",
+  "spriteId": {
+    "name": "spr_door",
+    "path": "sprites/spr_door/spr_door.yy",
+  },
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
