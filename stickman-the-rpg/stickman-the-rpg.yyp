@@ -24,7 +24,7 @@
     {"id":{"name":"room_newbie_elavator_room","path":"rooms/room_newbie_elavator_room/room_newbie_elavator_room.yy",},"order":4,},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},"order":5,},
     {"id":{"name":"spr_tileset_grass","path":"sprites/spr_tileset_grass/spr_tileset_grass.yy",},"order":4,},
-    {"id":{"name":"room_","path":"rooms/room_/room_.yy",},"order":6,},
+    {"id":{"name":"room_floor_2_elavator_start","path":"rooms/room_floor_2_elavator_start/room_floor_2_elavator_start.yy",},"order":6,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":0,},
   ],
   "Options": [
@@ -51,7 +51,7 @@
     {"roomId":{"name":"room_newbie_key_place","path":"rooms/room_newbie_key_place/room_newbie_key_place.yy",},},
     {"roomId":{"name":"room_newbie_elavator_room","path":"rooms/room_newbie_elavator_room/room_newbie_elavator_room.yy",},},
     {"roomId":{"name":"room_newbie_meeting_place","path":"rooms/room_newbie_meeting_place/room_newbie_meeting_place.yy",},},
-    {"roomId":{"name":"room_","path":"rooms/room_/room_.yy",},},
+    {"roomId":{"name":"room_floor_2_elavator_start","path":"rooms/room_floor_2_elavator_start/room_floor_2_elavator_start.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
