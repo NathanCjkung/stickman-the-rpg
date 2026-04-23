@@ -1,9 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object3",
-  "spriteId": null,
-  "solid": false,
+  "name": "obj_key",
+  "spriteId": {
+    "name": "spr_key",
+    "path": "sprites/spr_key/spr_key.yy",
+  },
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

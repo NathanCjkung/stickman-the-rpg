@@ -19,9 +19,12 @@
     {"id":{"name":"spr_character_tileset","path":"sprites/spr_character_tileset/spr_character_tileset.yy",},"order":2,},
     {"id":{"name":"ts_tileset_interior","path":"tilesets/ts_tileset_interior/ts_tileset_interior.yy",},"order":0,},
     {"id":{"name":"spr_tileset_room_buliding","path":"sprites/spr_tileset_room_buliding/spr_tileset_room_buliding.yy",},"order":1,},
-    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":2,},
+    {"id":{"name":"room_newbie_meeting_place","path":"rooms/room_newbie_meeting_place/room_newbie_meeting_place.yy",},"order":5,},
+    {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"order":2,},
+    {"id":{"name":"room_newbie_elavator_room","path":"rooms/room_newbie_elavator_room/room_newbie_elavator_room.yy",},"order":4,},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},"order":5,},
     {"id":{"name":"spr_tileset_grass","path":"sprites/spr_tileset_grass/spr_tileset_grass.yy",},"order":4,},
+    {"id":{"name":"room_","path":"rooms/room_/room_.yy",},"order":6,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":0,},
   ],
   "Options": [
@@ -46,6 +49,9 @@
     {"roomId":{"name":"room_lobby","path":"rooms/room_lobby/room_lobby.yy",},},
     {"roomId":{"name":"room_newbie_lobby","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},},
     {"roomId":{"name":"room_newbie_key_place","path":"rooms/room_newbie_key_place/room_newbie_key_place.yy",},},
+    {"roomId":{"name":"room_newbie_elavator_room","path":"rooms/room_newbie_elavator_room/room_newbie_elavator_room.yy",},},
+    {"roomId":{"name":"room_newbie_meeting_place","path":"rooms/room_newbie_meeting_place/room_newbie_meeting_place.yy",},},
+    {"roomId":{"name":"room_","path":"rooms/room_/room_.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
