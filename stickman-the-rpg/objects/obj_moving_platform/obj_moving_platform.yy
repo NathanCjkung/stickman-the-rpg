@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_moving_platform",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_moving_platform",
+    "path": "sprites/spr_moving_platform/spr_moving_platform.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

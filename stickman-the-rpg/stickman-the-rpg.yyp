@@ -20,7 +20,7 @@
     {"id":{"name":"ts_tileset_tree","path":"tilesets/ts_tileset_tree/ts_tileset_tree.yy",},"order":3,},
     {"id":{"name":"room_newbie_lobby","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},"order":2,},
     {"id":{"name":"spr_character_tileset","path":"sprites/spr_character_tileset/spr_character_tileset.yy",},"order":2,},
-    {"id":{"name":"spr_moving_platform","path":"sprites/spr_moving_platform/spr_moving_platform.yy",},"order":5,},
+    {"id":{"name":"spr_moving_platform","path":"sprites/spr_moving_platform/spr_moving_platform.yy",},"order":9,},
     {"id":{"name":"ts_tileset_interior","path":"tilesets/ts_tileset_interior/ts_tileset_interior.yy",},"order":0,},
     {"id":{"name":"spr_tileset_room_buliding","path":"sprites/spr_tileset_room_buliding/spr_tileset_room_buliding.yy",},"order":1,},
     {"id":{"name":"room_newbie_meeting_place","path":"rooms/room_newbie_meeting_place/room_newbie_meeting_place.yy",},"order":5,},
