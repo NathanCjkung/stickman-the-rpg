@@ -18,6 +18,7 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_233F9E46","properties":[],"isDnd":false,"objectId":{"name":"obj_wood_door","path":"objects/obj_wood_door/obj_wood_door.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":90.0,"scaleX":1.9375,"scaleY":2.8125,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":169.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2988D6D5","properties":[],"isDnd":false,"objectId":{"name":"obj_medkit","path":"objects/obj_medkit/obj_medkit.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.71875,"scaleY":0.71875,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":884.0,"y":415.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_interior_building","tilesetId":{"name":"ts_tileset_interior","path":"tilesets/ts_tileset_interior/ts_tileset_interior.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 -827,-2147483648,1,645,-3,-2147483648,1,537,-81,-2147483648,1,661,-3,-2147483648,1,553,-3210,-2147483648,],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
@@ -49,6 +50,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_233F9E46","path":"rooms/Room_floor_3_ambush_room/Room_floor_3_ambush_room.yy",},
+    {"name":"inst_2988D6D5","path":"rooms/Room_floor_3_ambush_room/Room_floor_3_ambush_room.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
