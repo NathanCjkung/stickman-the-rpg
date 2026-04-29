@@ -21,6 +21,7 @@
     {"id":{"name":"room_floor_3_elavator_room","path":"rooms/room_floor_3_elavator_room/room_floor_3_elavator_room.yy",},"order":17,},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},"order":7,},
     {"id":{"name":"obj_lava","path":"objects/obj_lava/obj_lava.yy",},"order":3,},
+    {"id":{"name":"spr_stickman_down","path":"sprites/spr_stickman_down/spr_stickman_down.yy",},"order":14,},
     {"id":{"name":"spr_stickman_left","path":"sprites/spr_stickman_left/spr_stickman_left.yy",},"order":13,},
     {"id":{"name":"ts_tileset_room_building","path":"tilesets/ts_tileset_room_building/ts_tileset_room_building.yy",},"order":1,},
     {"id":{"name":"room_newbie_key_place","path":"rooms/room_newbie_key_place/room_newbie_key_place.yy",},"order":3,},
