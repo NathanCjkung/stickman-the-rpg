@@ -6,7 +6,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":150,"hview":150,"xport":0,"yport":0,"wport":500,"hport":500,"hborder":32,"vborder":32,"hspeed":0,"vspeed":0,"objectId":{"name":"obj_stickman","path":"objects/obj_stickman/obj_stickman.yy",},},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":150,"hview":150,"xport":0,"yport":0,"wport":600,"hport":600,"hborder":150,"vborder":150,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_stickman","path":"objects/obj_stickman/obj_stickman.yy",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -25,6 +25,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3871194B","properties":[],"isDnd":false,"objectId":{"name":"obj_blockers","path":"objects/obj_blockers/obj_blockers.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.015625,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":159.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55EDBB9A","properties":[],"isDnd":false,"objectId":{"name":"obj_blockers","path":"objects/obj_blockers/obj_blockers.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":366.0,"y":127.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_23083CA6","properties":[],"isDnd":false,"objectId":{"name":"obj_blockers","path":"objects/obj_blockers/obj_blockers.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":5.0625,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":237.0,"y":591.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7A7F6CCF","properties":[],"isDnd":false,"objectId":{"name":"obj_wasd_tut","path":"objects/obj_wasd_tut/obj_wasd_tut.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":288.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"tiles_trees","tilesetId":{"name":"ts_tileset_tree","path":"tilesets/ts_tileset_tree/ts_tileset_tree.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":52,"TileCompressedData":[
 15,13,14,15,13,14,15,13,14,15,13,14,15,13,14,15,-20,-2147483648,15,13,14,15,13,14,15,13,14,15,13,14,15,13,14,15,-36,-2147483648,15,23,24,25,23,24,25,23,24,25,23,24,25,23,24,25,-20,-2147483648,15,23,24,25,23,24,25,23,24,25,23,24,25,23,24,25,-36,-2147483648,15,33,34,35,33,34,35,33,34,35,33,34,35,33,
@@ -71,6 +72,7 @@
     {"name":"inst_3871194B","path":"rooms/room_start/room_start.yy",},
     {"name":"inst_55EDBB9A","path":"rooms/room_start/room_start.yy",},
     {"name":"inst_23083CA6","path":"rooms/room_start/room_start.yy",},
+    {"name":"inst_7A7F6CCF","path":"rooms/room_start/room_start.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
