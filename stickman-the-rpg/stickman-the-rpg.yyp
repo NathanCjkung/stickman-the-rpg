@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"spr_lava","path":"sprites/spr_lava/spr_lava.yy",},"order":8,},
     {"id":{"name":"spr_stickman_right","path":"sprites/spr_stickman_right/spr_stickman_right.yy",},"order":12,},
+    {"id":{"name":"spr_door_back","path":"sprites/spr_door_back/spr_door_back.yy",},"order":19,},
     {"id":{"name":"room_floor_2_moving_plates","path":"rooms/room_floor_2_moving_plates/room_floor_2_moving_plates.yy",},"order":7,},
     {"id":{"name":"room_floor_2_valk_ace","path":"rooms/room_floor_2_valk_ace/room_floor_2_valk_ace.yy",},"order":8,},
     {"id":{"name":"spr_door_closed","path":"sprites/spr_door_closed/spr_door_closed.yy",},"order":17,},
