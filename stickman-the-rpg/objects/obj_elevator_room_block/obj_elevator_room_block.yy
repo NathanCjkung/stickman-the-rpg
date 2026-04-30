@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object11",
-  "spriteId": null,
+  "name": "obj_elevator_room_block",
+  "spriteId": {
+    "name": "spr_elavator_room_block",
+    "path": "sprites/spr_elavator_room_block/spr_elavator_room_block.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
