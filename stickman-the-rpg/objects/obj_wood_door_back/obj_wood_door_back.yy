@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wood_door",
+  "name": "obj_wood_door_back",
   "spriteId": {
-    "name": "spr_door_unactive",
-    "path": "sprites/spr_door_unactive/spr_door_unactive.yy",
+    "name": "spr_door_back_unactive",
+    "path": "sprites/spr_door_back_unactive/spr_door_back_unactive.yy",
   },
   "solid": true,
   "visible": true,
