@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_elevator_room_block_back",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_elevator_room_block_back",
+    "path": "sprites/spr_elevator_room_block_back/spr_elevator_room_block_back.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
