@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_elevator_room_block_back",
+  "name": "obj_stickman_wait_backward",
   "spriteId": {
-    "name": "spr_elevator_room_block_back",
-    "path": "sprites/spr_elevator_room_block_back/spr_elevator_room_block_back.yy",
+    "name": "spr_stickman_idle",
+    "path": "sprites/spr_stickman_idle/spr_stickman_idle.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,7 +25,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_stickman","path":"objects/obj_stickman/obj_stickman.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],

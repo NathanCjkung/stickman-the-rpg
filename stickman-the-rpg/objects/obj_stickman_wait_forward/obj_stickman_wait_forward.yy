@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_stickman_wait",
+  "name": "obj_stickman_wait_forward",
   "spriteId": {
     "name": "spr_stickman_idle",
     "path": "sprites/spr_stickman_idle/spr_stickman_idle.yy",
