@@ -6,7 +6,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":150,"hview":150,"xport":0,"yport":0,"wport":900,"hport":900,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_stickman","path":"objects/obj_stickman/obj_stickman.yy",},},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":150,"hview":150,"xport":0,"yport":0,"wport":900,"hport":900,"hborder":150,"vborder":150,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_stickman","path":"objects/obj_stickman/obj_stickman.yy",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -22,6 +22,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_53E5B119","properties":[],"isDnd":false,"objectId":{"name":"obj_medkit","path":"objects/obj_medkit/obj_medkit.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.421875,"scaleY":0.4375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":587.0,"y":332.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4C527DDE","properties":[],"isDnd":false,"objectId":{"name":"obj_wood_door","path":"objects/obj_wood_door/obj_wood_door.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":-96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_32A414AD","properties":[],"isDnd":false,"objectId":{"name":"obj_wood_door","path":"objects/obj_wood_door/obj_wood_door.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":270.0,"scaleX":1.823841,"scaleY":2.375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":793.1815,"y":327.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3F88ED86","properties":[],"isDnd":false,"objectId":{"name":"obj_stickman","path":"objects/obj_stickman/obj_stickman.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.8,"scaleY":0.8,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":336.0,"y":336.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"tiles_interior_small_things","tilesetId":{"name":"ts_tileset_interior","path":"tilesets/ts_tileset_interior/ts_tileset_interior.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 -971,-2147483648,1,860,-85,-2147483648,1,876,-20,-2147483648,2,650,651,-63,-2147483648,1,892,-20,-2147483648,2,666,667,-431,-2147483648,1,0,-54,-2147483648,2,1879048611,1879048627,-28,-2147483648,-2,0,-54,-2147483648,2,1879048610,1879048626,-28,-2147483648,-2,0,-54,-2147483648,2,1879048609,1879048625,-28,-2147483648,-2,0,-54,-2147483648,2,1879048608,1879048624,-28,-2147483648,-2,0,-427,-2147483648,3,1073742146,1073742130,1073742114,-83,-2147483648,3,1073742147,1073742131,1073742115,-83,-2147483648,3,1073742148,1073742132,1073742116,-61,-2147483648,2,805307499,805307498,-20,
@@ -47,6 +48,7 @@
     {"name":"inst_53E5B119","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},
     {"name":"inst_4C527DDE","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},
     {"name":"inst_32A414AD","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},
+    {"name":"inst_3F88ED86","path":"rooms/room_newbie_lobby/room_newbie_lobby.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
