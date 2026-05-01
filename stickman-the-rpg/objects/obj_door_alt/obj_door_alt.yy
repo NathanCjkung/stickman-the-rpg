@@ -6,7 +6,7 @@
     "name": "spr_door_alt_unactive",
     "path": "sprites/spr_door_alt_unactive/spr_door_alt_unactive.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

@@ -7,7 +7,7 @@
     "path": "sprites/spr_elevator_room_block_back/spr_elevator_room_block_back.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
