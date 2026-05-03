@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_enemy",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_enemy_idle",
+    "path": "sprites/spr_enemy_idle/spr_enemy_idle.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

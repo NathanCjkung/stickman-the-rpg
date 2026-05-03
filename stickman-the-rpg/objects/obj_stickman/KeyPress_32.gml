@@ -15,13 +15,17 @@ image_index = 0;
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 17D3A634
-var l17D3A634_0 = instance_place(0, 0, noone);
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "object" "obj_enemy"
+/// @DnDSaveInfo : "object" "obj_enemy"
+var l17D3A634_0 = instance_place(x + 0, y + 0, obj_enemy);
 if ((l17D3A634_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 0854AB82
-	/// @DnDApplyTo : other
+	/// @DnDApplyTo : {obj_enemy}
 	/// @DnDParent : 17D3A634
-	with(other) instance_destroy();
+	with(obj_enemy) instance_destroy();
 }
