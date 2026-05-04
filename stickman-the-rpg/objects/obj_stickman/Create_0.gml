@@ -9,12 +9,12 @@ var_stickspeed = 2;
 /// @DnDVersion : 1
 /// @DnDHash : 59F4076D
 /// @DnDArgument : "expr" "100"
-/// @DnDArgument : "var" "health"
-health = 100;
+/// @DnDArgument : "var" "var_stickhp"
+var_stickhp = 100;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 434A88BC
 /// @DnDArgument : "expr" "100"
-/// @DnDArgument : "var" "healthmax"
-healthmax = 100;
+/// @DnDArgument : "var" "var_stickhpmax"
+var_stickhpmax = 100;

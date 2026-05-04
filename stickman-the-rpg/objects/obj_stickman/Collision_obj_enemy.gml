@@ -1,10 +1,10 @@
-/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 3EFC4AF3
-/// @DnDArgument : "value" "-25"
-/// @DnDArgument : "value_relative" "1"
-/// @DnDArgument : "instvar" "23"
-__dnd_health += -25;
+/// @DnDHash : 685EF376
+/// @DnDArgument : "expr" "25"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "var_stickhp"
+var_stickhp += 25;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
